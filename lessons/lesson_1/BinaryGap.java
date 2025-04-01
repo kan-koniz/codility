@@ -1,14 +1,7 @@
-package lessons.lesson_1.BinaryGap;
+package lessons.lesson_1;
 
-// you can also use imports, for example:
-// import java.util.*;
-
-// you can write to stdout for debugging purposes, e.g.
-// System.out.println("this is a debug message");
-
-class Solution {
+class BinaryGap {
     public int solution(int N) {
-        // Implement your solution here
         String binaryString = Integer.toBinaryString(N);
 
         int maxGap = 0;
