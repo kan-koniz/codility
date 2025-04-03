@@ -29,7 +29,7 @@ public class EquiLeader {
             }
         }
 
-        if (leaderCount > 2) {
+        if (leaderCount > N / 2) {
             leader = candidate;
         } else {
             return 0;
