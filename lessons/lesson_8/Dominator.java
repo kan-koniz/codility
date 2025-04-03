@@ -1,4 +1,6 @@
 // https://app.codility.com/programmers/lessons/8-leader/dominator/
+// Algorithm: Boyer-Moore Voting Algorithm
+// Time Complexity: O(N)
 package lessons.lesson_8;
 
 public class Dominator {
