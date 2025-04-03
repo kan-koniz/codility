@@ -1,3 +1,4 @@
+// https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/
 package lessons.lesson_5;
 
 public class MinAvgTwoSlice {

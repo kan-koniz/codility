@@ -1,3 +1,4 @@
+// https://app.codility.com/programmers/lessons/6-sorting/triangle/
 package lessons.lesson_6;
 
 import java.util.*;

@@ -19,7 +19,6 @@ public class NumberOfDiscIntersections {
     }
 
     public int solution(int[] A) {
-        // Implement your solution here
         int N = A.length;
         List<Event> events = new ArrayList<>();
 
