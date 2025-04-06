@@ -11,7 +11,7 @@ public class Ladder {
             if (n > maxA) maxA = n;
         }
 
-        int maxFib = maxA + 2;
+        int maxFib = maxA + 1;
         int[] fibonacci = new int[maxFib];
         fibonacci[0] = 1;
         fibonacci[1] = 1;
