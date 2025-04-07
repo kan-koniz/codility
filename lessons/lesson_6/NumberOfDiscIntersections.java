@@ -1,3 +1,4 @@
+// https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/
 package lessons.lesson_6;
 
 import java.util.*;
